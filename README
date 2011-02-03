@@ -1,0 +1,12 @@
+Feature-complete.
+Uses JDK 7
+
+Todo:
+ * Make code pretty and easier to follow
+ * Future-proof, add functionality for more boards
+ * Hope that Oracle fixes FileDialog
+ * Use Java 7 syntax once Eclipse can compile it
+
+To not do:
+ * Complicate the UI
+
